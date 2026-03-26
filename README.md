@@ -26,13 +26,13 @@ I sit at the intersection of hardware and software—basically, I speak both C++
 ---
 
 ### 📈 GitHub Stats
-![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=transparent)
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuytrong&show_icons=true&theme=transparent)
 
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** [your.email@mavs.uta.edu](mailto:your.email@mavs.uta.edu)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/huy-trong-nguyen-976004202/)
+* **Email:** [your.email@mavs.uta.edu](mailto:hxn2471@mavs.uta.edu)
 * **Location:** Arlington / Dallas, TX 📍
 
 ---
