@@ -31,8 +31,8 @@ I sit at the intersection of hardware and software—basically, I speak both C++
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/huy-trong-nguyen-976004202/)
-* **Email:** [your.email@mavs.uta.edu](mailto:hxn2471@mavs.uta.edu)
+* **LinkedIn:** [linkedin.com/huytrongnguyen](https://www.linkedin.com/in/huy-trong-nguyen-976004202/)
+* **Email:** [hxn2471@mavs.uta.edu](mailto:hxn2471@mavs.uta.edu)
 * **Location:** Arlington / Dallas, TX 📍
 
 ---
